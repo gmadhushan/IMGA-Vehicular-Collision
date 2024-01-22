@@ -1,1 +1,4 @@
-# IMGA-Vehicular-Collision
+# Instance Mask-Guided Attention (IMGA) for Vehicular Collision
+
+We present an Instance Mask-Guided Attention (IMGA) Network for vehicular collision image classification. The Vehicular Collision Image Classification Dataset is created from crowd-sourced dashboard camera videos containing on-road vehicular collision. The dataset consists of images extracted from accident videos forming two classes namely - (i) No Collision - frames extracted from video timestamps before vehicular collision and (ii) Collision - frames extracted from video timestamps on/after vehicular collision. The ability to differentiate between these images based on spatial difference is achieved by guidance of instance masks of vehicles involved in collision. The proposed IMGA network produces an accuracy of 97.94 % in the presented vehicular collision image classification dataset.
+
