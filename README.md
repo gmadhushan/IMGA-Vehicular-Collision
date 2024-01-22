@@ -9,6 +9,7 @@ LINK
 **Generate instance masks of vehicles undergoing collision using DeepMAC_only_collided_vehicles_mask.py**
 
 Download and extract the DeepMac tensorflow object detection model pretrained on COCO dataset from the link 
-download.tensorflow.org/models/object_detection/tf2/20210329/deepmac_1024x1024_coco17.tar.gz
+http://download.tensorflow.org/models/object_detection/tf2/20210329/deepmac_1024x1024_coco17.tar.gz
+
 
 
