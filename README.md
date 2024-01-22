@@ -13,4 +13,29 @@ Download and extract the DeepMac tensorflow object detection model pretrained on
 http://download.tensorflow.org/models/object_detection/tf2/20210329/deepmac_1024x1024_coco17.tar.gz
 
 
+Arrange the folders in the following order
+    ├── dataset
+    │   ├── images
+    │   │   ├── train
+    │   │   ├── val
+    │   │   ├── test
+    │   ├── labels
+    │   │   ├── train
+    │   │   ├── val
+    │   │   ├── test
 
+├── dataset
+│   ├── images
+│   │   ├── train
+│   │   ├── val
+│   │   ├── test
+│   ├── labels
+│   │   ├── train
+│   │   ├── val
+│   │   ├── test}
+
+|-vehicle_collision
+|   |---train
+|   |---test
+|   |---l2_mask
+|   |---labels.pkl
