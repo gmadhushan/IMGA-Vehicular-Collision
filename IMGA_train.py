@@ -1,4 +1,7 @@
-""" Use this program to train the IMGA network using the vehicular collision image classification dataset """
+#%%
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
+# Use this code to train the IMGA network using the vehicular collision image classification dataset #
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
 
 #Import the required libraries
 import os
