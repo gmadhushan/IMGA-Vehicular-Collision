@@ -2,7 +2,7 @@
 
 We present an Instance Mask-Guided Attention (IMGA) Network for vehicular collision image classification. The Vehicular Collision Image Classification Dataset is created from crowd-sourced dashboard camera videos containing on-road vehicular collision. The dataset consists of images extracted from accident videos forming two classes namely - (i) No Collision - frames extracted from video timestamps before vehicular collision and (ii) Collision - frames extracted from video timestamps on/after vehicular collision. The ability to differentiate between these images based on spatial difference is achieved by guidance of instance masks of vehicles involved in collision. The proposed IMGA network produces an accuracy of 97.94 % in the presented vehicular collision image classification dataset.
 
-**[Download the training and validation set](link)** of the dataset and arrange the folders in the following order for training the network.
+**[Download the training and validation set](https://drive.google.com/drive/folders/1Pg2qvS2-cnWyK_IqXTnJZ_F8KGxlR5ff?usp=sharing)** of the dataset and arrange the folders in the following order for training the network.
  
     ├── vehicle_collision
     │   ├── train
@@ -13,7 +13,7 @@ We present an Instance Mask-Guided Attention (IMGA) Network for vehicular collis
 Here, the train folder contains all training images, test folder contains all the validation set images and l2_mask folder contains the vehicle mask images of all training and validation set images together.
 The labels.pkl file contains the ground truth/class labels of all training and validation images in the dataset.
 
-**[Download the test set](link)** of the dataset and arrange the folders in the following order to run inference on test data.
+**[Download the test set](https://drive.google.com/drive/folders/19bq0db8jOs7cck7zrwlE0vd5trhY2GgY?usp=sharing)** of the dataset and arrange the folders in the following order to run inference on test data.
 
     ├── vehicle_collision
     │   ├── test
